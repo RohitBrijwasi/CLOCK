@@ -5,7 +5,7 @@ Java Clock App using Java Swing
 
 •	Components of Java Swing has been used for developing this.
 
-
+Snip of project:-
 
 ![image](https://user-images.githubusercontent.com/75301031/226846339-b68f9c45-93c3-4522-af71-4054873931f4.png)
 
